@@ -1,0 +1,92 @@
+Nome do podcast:
+O Código da Casa – "Decifrando o financiamento e conquistando seu lar"
+Obtido através do ChatGPT, último prompt aperfeiçoado:
+"Você é um roteirista de podcast, vamos criar um podcast de finanças, focado em financiamento habitacional e conquista do imóvel próprio, e eu gostaria de uma ajuda sua para criar 5 sugestões 
+de nomes criativos para um podcast de incentivo à habitação, e que tenha algum trocadilho nerd no nome 
+
+O podcast vai falar sobre dicas e novidades sobre financiamento habitacional e o que está acontecendo no mercado de imóveis, como desbravar o tema e ter sucesso
+
+{REGRAS}
+
+- um nome e um subtítulo
+- O nome tenha algum trocadilho nerd com nomes de franquias conhecidas como missão impossível e james bond 
+- O nome deve conter alguma palavra forte que remeta a conquista de imóvel 
+
+{REGRAS NEGATIVAS}
+
+- Não quero que o título contenha palavras em inglês"
+resultados:
+Aqui estão cinco sugestões criativas para o nome do seu podcast de incentivo à habitação, com trocadilhos nerds:
+
+Missão: Casa Própria – "Seu plano infalível para conquistar um lar" (Referência a Missão: Impossível)
+007 - O Aluguel Não Vive Duas Vezes – "Dicas secretas para sair do aluguel" (Referência a 007 - O Amanhã Nunca Morre)
+A Habitação Suprema – "O caminho do herói até as chaves do imóvel" (Referência a Doutor Estranho no Multiverso da Loucura)
+O Código da Casa – "Decifrando o financiamento e conquistando seu lar" (Referência a O Código Da Vinci)
+O Imóvel Ultimato – "A última batalha para conquistar sua casa" (Referência a Vingadores: Ultimato)
+
+
+Imagem do podcast criada através do https://app.leonardo.ai/ (não foi possível acessar midjourney, estava exigindo assinatura) e anexada pasta scr/prompts
+
+Roteiro/episódio do podcast obtido através do ChatGPT:
+prompt utilizado (versão final):
+Você é um roteirista de podcast, e vamos criar um  roteiro de um podcast finanças, focado em financiamento habitacional e conquista do imóvel próprio o nome do podcast é "O Código da Casa – Decifrando o financiamento e conquistando seu lar" e tem foco em financialmento imobiliário, com o público alvo de iniciantes e leigos em relação ao processo 
+
+o formato do roteiro deve ser
+[INTRODUÇÃO]
+[CURIOSIDADE 1]
+[CURIOSIDADE 2]
+[FINALIZAÇÃO]
+
+{REGRAS}
+
+- no bloco [INTRODUÇÃO] substitua por uma introdução iguais as introduções dos vídeos do canal 'manual do mundo' 
+- no bloco [CURIOSIDADE 1] substitua por uma curiosidade de conceito de financiamento imobiliário 
+- no bloco [CURIOSIDADE 2] sobre processo e etapas do financiamento imobiliário 
+- no bloco [FINALIZAÇÃO] substitua por uma despedida positiva e de incentivo à busca por financiamento no intuito de conquistar a casa própria 
+- use termos de fácil explicação
+ 
+- O podcast deve ser completo e detalhado, bem explicado
+
+{REGRAS NEGATIVAS}
+
+- Não use muitos termos técnicos
+- Não ultrapasse 5 minutos de duração
+
+Resultado obtito:
+
+O Código da Casa – Decifrando o financiamento e conquistando seu lar
+🎵 [Vinheta curta e animada]
+
+[INTRODUÇÃO]
+🗣️ "Você já imaginou morar na casa dos seus sonhos, mas achou que isso era impossível porque não tinha todo o dinheiro de uma vez? E se eu te disser que existe um jeito de conseguir isso parcelado e dentro do seu orçamento? Pois é exatamente isso que o financiamento imobiliário faz! Mas como ele funciona? Como você pode conseguir um? No episódio de hoje, vamos desvendar esse mistério e mostrar o caminho pra você conquistar seu lar! Seja bem-vindo ao O Código da Casa – Decifrando o financiamento e conquistando seu lar! Bora lá?"
+
+[CURIOSIDADE 1 – O QUE É O FINANCIAMENTO IMOBILIÁRIO?]
+💡 "Vamos começar do começo! Financiamento imobiliário é um jeito de comprar um imóvel sem precisar pagar tudo de uma vez. Basicamente, um banco ou uma instituição financeira empresta o dinheiro pra você comprar a casa ou apartamento, e você devolve esse dinheiro em parcelas ao longo de vários anos. Parece simples, né? Mas tem um detalhe importante: como qualquer empréstimo, o financiamento tem juros, ou seja, você vai pagar um pouco a mais do que o valor original do imóvel.
+
+Agora, você pode estar se perguntando: 'Mas quanto tempo eu tenho pra pagar?'. Isso depende do tipo de financiamento que você escolher! Existem opções que vão de 10 até 35 anos pra quitar tudo. Quanto maior o prazo, menores as parcelas, mas também mais juros você paga no final. Então, o segredo aqui é encontrar um equilíbrio entre o valor da prestação e o tempo que você quer levar pra pagar."
+
+[CURIOSIDADE 2 – COMO FUNCIONA O PROCESSO DE FINANCIAMENTO?]
+📝 "Agora que já entendemos o conceito, bora falar sobre as etapas do financiamento! O processo pode parecer complicado à primeira vista, mas eu vou te explicar direitinho:
+
+1️⃣ Escolha do imóvel – Primeiro, você precisa encontrar um imóvel que caiba no seu orçamento e esteja dentro das regras do financiamento. Pode ser um apartamento, uma casa ou até um terreno, dependendo do tipo de crédito.
+
+2️⃣ Análise de crédito – O banco vai checar se você pode pagar as parcelas direitinho. Ele analisa sua renda, histórico financeiro e se você já tem outras dívidas. Quanto mais organizado você for com seu dinheiro, maiores as chances de aprovação.
+
+3️⃣ Entrada e simulação – A maioria dos financiamentos exige uma entrada, que geralmente varia de 10% a 30% do valor do imóvel. Depois disso, você pode simular as parcelas pra ver quanto vai pagar por mês.
+
+4️⃣ Documentação – Aqui começa a parte burocrática! Você precisa enviar documentos como RG, CPF, comprovante de residência e de renda. Se estiver comprando um imóvel na planta, pode ter documentos extras, então fique de olho!
+
+5️⃣ Aprovação e assinatura do contrato – Se tudo estiver certo, o banco aprova o financiamento e você assina o contrato. Depois disso, o dinheiro é liberado para o vendedor, e o imóvel já pode ser seu! Mas atenção: o banco coloca o imóvel como garantia até que você quite a dívida."
+
+[FINALIZAÇÃO]
+🏡 "E aí, viu como o financiamento imobiliário é um grande aliado pra realizar o sonho da casa própria? Pode até parecer complicado no começo, mas com informação e planejamento, tudo fica mais fácil! Agora que você já sabe como funciona, que tal dar o primeiro passo e pesquisar as opções de financiamento que melhor se encaixam no seu bolso?
+
+Se esse episódio te ajudou, compartilhe com alguém que também quer sair do aluguel! E fica ligado, porque no próximo episódio a gente vai falar sobre como reduzir os juros do financiamento e pagar menos pelo seu imóvel! Até lá!"
+
+🎵 [Vinheta de encerramento]
+
+Utilizado Prime Voice Ai Eleven Labs para narração.
+Editado através do capcut
+
+
+
